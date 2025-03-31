@@ -1,4 +1,4 @@
-# Portafolio de Mashernan
+# Portafolio de Miguel Sebastian
 ## Acerca de mí
 
 <table>
