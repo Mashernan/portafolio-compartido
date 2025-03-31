@@ -3,8 +3,8 @@
 
 # Cada usuario es dueño de su propio portafolio
 usuarios/Mashernan/ @Mashernan
-usuarios/DarkBills93/ @DarkBills93
-usuarios/Beatrizcl93/ @Beatrizcl93
+#usuarios/DarkBills93/ @DarkBills93
+#usuarios/Beatrizcl93/ @Beatrizcl93
 
 # Los archivos de configuración solo pueden ser modificados por administradores
-.github/ @admin
+#.github/ @admin
