@@ -26,6 +26,7 @@ Actualemnte soy estudiante de **Ingeniería de Sistemas e informatica** en el oc
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
+<img align="right" width="400" alt="Shimarin" src="https://img.freepik.com/foto-gratis/personaje-anime-usando-gafas-realidad-virtual-metaverso_23-2151568830.jpg?t=st=1743982073~exp=1743985673~hmac=5fb8c9e87fc82aa7b84cb8ce2d1f17417393f0a2051f15d8045f150db8df77b5&w=740"/>
 
 ## 💼 Experiencia & Proyectos  
 
