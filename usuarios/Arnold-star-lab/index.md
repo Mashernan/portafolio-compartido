@@ -1,7 +1,6 @@
-# Portafolio de Arnold Limo
 💾 **¡Hola! Soy Arnold Hugo Limo Yufra**
 
-![Portada](https://raw.githubusercontent.com/Arnold-star-lab/Arnold-Limo.github.io/main/images/image1.jpg)  
+![Portada](https://raw.githubusercontent.com/Arnold-star-lab/Arnold-Limo.github.io/main/images/image3.jpg)  
 
 🎯 **Desarrollador Backend en formación | Enfocado en Bases de Datos | Apasionado por la Tecnología**  
 
@@ -55,6 +54,7 @@ Actualemnte soy estudiante de **Ingeniería de Sistemas e informatica** en el oc
 ☁️ **Curso de Cloud Computing y DevOps**  
 
 ---
+<img align="right" width="400" alt="Shimarin" src="https://img.freepik.com/vector-premium/adolescente-asiatico-aprende-codificar_1238364-85521.jpg"/>
 
 ## 🎯 Objetivos y Planes  
 
@@ -83,4 +83,4 @@ Actualemnte soy estudiante de **Ingeniería de Sistemas e informatica** en el oc
 
 > *"Los datos no son solo información, sino la clave del futuro."*  
 
-🌟 *¡Gracias por visitar mi portafolio!* 🚀   
+🌟 *¡Gracias por visitar mi portafolio!* 🚀 
