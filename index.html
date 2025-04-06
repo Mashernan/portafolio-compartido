@@ -62,6 +62,7 @@
   </header>
 
   <main>
+    <input type="text" id="search-input" placeholder="Buscar por nombre..." style="width: 100%; padding: 10px; margin-bottom: 2rem; border-radius: 8px; border: 1px solid #ccc; font-size: 1rem;" />
       <div class="card">
       <h2>Arnold Hugo Limo Yufra</h2>
       <p>🌐 <a href="https://arnold-star-lab.github.io/Arnold-Limo.github.io/" target="_blank">Ver Portafolio</a></p>
@@ -99,6 +100,23 @@
   <footer>
     © 2025 Grupo I - Todos los derechos reservados
   </footer>
+<script>
+  const searchInput = document.getElementById('search-input');
+  const cards = document.querySelectorAll('.card');
 
+  searchInput.addEventListener('input', function () {
+    const query = this.value.toLowerCase();
+
+    cards.forEach(card => {
+      const name = card.querySelector('h2').textContent.toLowerCase();
+      if (name.includes(query)) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  });
+</script>
+  
 </body>
 </html>
