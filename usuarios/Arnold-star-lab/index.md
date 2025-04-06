@@ -1,4 +1,4 @@
-# portafolio de Arnold
+# Portafolio de Arnold Limo
 💾 **¡Hola! Soy Arnold Hugo Limo Yufra**
 
 ![Portada](https://raw.githubusercontent.com/Arnold-star-lab/Arnold-Limo.github.io/main/images/image1.jpg)  
