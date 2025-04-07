@@ -4,7 +4,9 @@
 # Cada usuario es dueño de su propio portafolio
 usuarios/Mashernan/ @Mashernan
 usuarios/DarkBills93/ @DarkBills93
-#usuarios/Beatrizcl93/ @Beatrizcl93
+usuarios/Beatrizcl93/ @Beatrizcl93
+usuarios/Arnold-star-lab/ @Arnold-star-lab
+usuarios/VanessaSanchez1/ @VanessaSanchez1
 
 # Los archivos de configuración solo pueden ser modificados por administradores
 #.github/ @admin
